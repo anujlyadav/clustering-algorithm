@@ -1,29 +1,23 @@
-# clustering-algorithm
-# DWM Experiments Repository
+DWM Experiments Repository
 
-## 📌 Experiments Included
+ Experiments Included
 
-### 🔹 Experiment 3: Classification (Decision Tree & Naïve Bayes)
+ Experiment 3: Classification (Decision Tree & Naïve Bayes)
 - Implemented supervised learning algorithms
 - Compared accuracy using Iris dataset
 - Visualized performance using bar graph
 
-### 🔹 Experiment 4: Clustering (K-Means)
+ Experiment 4: Clustering (K-Means)
 - Implemented K-Means clustering
 - Grouped similar data points
 - Visualized clusters and centroids
-
----
-
-## ⚙️ Technologies Used
+ Technologies Used
 - Python
 - Scikit-learn
 - NumPy
 - Matplotlib
 
----
-
-## ▶️ How to Run
+ How to Run
 
 Install dependencies:
 ```
@@ -37,11 +31,9 @@ python classification.py
 
 ---
 
-## 📊 Output
+ Output
 - Accuracy comparison for classification
 - Cluster visualization for clustering
 
----
-
-## 📁 Author
+Author
 Anuj Yadav
