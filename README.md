@@ -1,12 +1,5 @@
 DWM Experiments Repository
 
- Experiments Included
-
- Experiment 3: Classification (Decision Tree & Naïve Bayes)
-- Implemented supervised learning algorithms
-- Compared accuracy using Iris dataset
-- Visualized performance using bar graph
-
  Experiment 4: Clustering (K-Means)
 - Implemented K-Means clustering
 - Grouped similar data points
